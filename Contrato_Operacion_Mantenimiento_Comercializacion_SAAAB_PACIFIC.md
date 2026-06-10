@@ -114,9 +114,11 @@ El contrato podrá prorrogarse por períodos iguales previo acuerdo escrito, deb
 ### CLÁUSULA OCTAVA. – PUNTO DE ENTREGA Y CONDICIONES TÉCNICAS
 **8.1.** El agua se entregará en el(los) punto(s) de acceso definidos en las Actas de Inicio o de Ampliación. A partir del punto de entrega, EL CONTRATISTA asume la responsabilidad de operación, distribución y comercialización.
 
-**8.2.** LA SAAAB garantizará la disponibilidad del agua en bloque, con continuidad y presión adecuadas y con los parámetros de la Resolución 2115 de 2007, salvo caso fortuito, fuerza mayor o mantenimientos programados notificados con al menos 72 horas de antelación.
+**8.2.** LA SAAAB pondrá a disposición el agua en bloque en el punto de entrega, con los parámetros de calidad de la Resolución 2115 de 2007, dentro de las condiciones efectivas de operación de su sistema de acueducto. Las interrupciones derivadas de la **intermitencia estructural** del sistema (numeral 8.4) no constituyen incumplimiento de LA SAAAB. Solo se considerará **indisponibilidad imputable** a LA SAAAB la interrupción que no obedezca a intermitencia estructural, caso fortuito, fuerza mayor ni a mantenimientos programados debidamente notificados con al menos setenta y dos (72) horas de antelación.
 
-**8.3.** EL CONTRATISTA garantizará el suministro continuo a las motonaves las 24 horas, los 7 días de la semana, y mantendrá operativa su infraestructura aguas abajo del punto de entrega.
+**8.3.** EL CONTRATISTA garantizará el suministro a las motonaves las veinticuatro (24) horas del día, los siete (7) días de la semana, **siempre que exista disponibilidad efectiva del recurso hídrico suministrado por LA SAAAB en el punto de entrega**, y mantendrá operativa su infraestructura aguas abajo de dicho punto. Se reconoce expresamente que el sistema de acueducto del Distrito de Buenaventura no opera con continuidad permanente (24/7), por lo que la obligación de suministro continuo de EL CONTRATISTA está condicionada y limitada a los períodos en que LA SAAAB garantice la disponibilidad del agua en el punto de acceso. La falta de suministro a motonaves derivada exclusivamente de la intermitencia estructural del sistema de LA SAAAB no constituirá incumplimiento de EL CONTRATISTA ni dará lugar a sanciones en su contra.
+
+**8.4. Intermitencia estructural.** Las partes reconocen como **intermitencia estructural** las interrupciones del suministro de agua en bloque que obedezcan a limitaciones propias del sistema de acueducto del Distrito de Buenaventura (racionamientos programados del servicio público, deficiencias históricas de infraestructura de captación, conducción o tratamiento, o insuficiencia general del recurso hídrico), que afecten de forma generalizada a los usuarios del Distrito y no sean atribuibles a una decisión discrecional o negligencia particular de LA SAAAB respecto del punto de entrega del presente contrato. La intermitencia estructural no genera sanción para ninguna de las partes ni constituye incumplimiento contractual, pero LA SAAAB se obliga a notificar a EL CONTRATISTA con la mayor antelación posible —y en todo caso dentro de las dos (2) horas siguientes al conocimiento de la restricción— indicando la duración estimada y las causas.
 
 ### CLÁUSULA NOVENA. – EXPANSIÓN COMERCIAL (OPCIONAL)
 [NOTA: cláusula opcional; conservada del contrato anterior. Evaluar si se mantiene en este modelo.]
@@ -129,7 +131,7 @@ Se autoriza a EL CONTRATISTA a extender la comercialización del agua adquirida 
 
 ### CLÁUSULA UNDÉCIMA. – ABASTECIMIENTO ALTERNATIVO
 **11.1.** EL CONTRATISTA se abastecerá de agua potable exclusivamente de LA SAAAB para el suministro a motonaves en los muelles objeto del contrato.
-**11.2.** Excepcionalmente podrá acudir a otras fuentes cuando: (a) LA SAAAB comunique la falta de disponibilidad; o (b) se produzca una interrupción efectiva superior a dos (2) horas continuas sin comunicación previa.
+**11.2.** Excepcionalmente podrá acudir a otras fuentes cuando: (a) LA SAAAB comunique la falta de disponibilidad, ya sea por indisponibilidad imputable o por intermitencia estructural; o (b) se produzca una interrupción efectiva superior a dos (2) horas continuas sin comunicación previa de LA SAAAB.
 **11.3.** Restablecido el suministro, EL CONTRATISTA retornará al abastecimiento exclusivo de LA SAAAB dentro de las veinticuatro (24) horas.
 **11.4.** El abastecimiento alternativo no exonera a LA SAAAB del régimen de sanciones cuando la interrupción le sea imputable.
 **11.5.** EL CONTRATISTA comunicará el inicio del abastecimiento alternativo dentro de las seis (6) horas siguientes, indicando fuente y volumen estimado.
@@ -137,7 +139,7 @@ Se autoriza a EL CONTRATISTA a extender la comercialización del agua adquirida 
 ### CLÁUSULA DUODÉCIMA. – OBLIGACIONES DE LAS PARTES
 **12.1. Obligaciones de LA SAAAB:**
 (a) Facilitar el acceso a la infraestructura y entregar inventario y estado de las redes de los muelles 1 al 15 de SPRB y Grupo Portuario.
-(b) Garantizar la disponibilidad del agua en bloque, con continuidad y presión, aguas arriba del punto de entrega.
+(b) Garantizar la disponibilidad del agua en bloque, con continuidad y presión, aguas arriba del punto de entrega, dentro de las condiciones efectivas del sistema de acueducto del Distrito. Cuando la disponibilidad se vea afectada por intermitencia estructural, notificar a EL CONTRATISTA con la mayor antelación posible conforme al numeral 8.4.
 (c) Instalar, calibrar y mantener el macromedidor en cada punto de acceso.
 (d) Designar supervisor, recibir y verificar los pagos y la participación mensual, y aprobar las garantías.
 (e) Emitir las autorizaciones necesarias para la operación y cooperar en las gestiones ante autoridades.
@@ -148,7 +150,7 @@ Se autoriza a EL CONTRATISTA a extender la comercialización del agua adquirida 
 **12.2. Obligaciones de EL CONTRATISTA:**
 (a) Ejecutar la rehabilitación, operación, mantenimiento, reposición y optimización de las redes objeto del contrato, garantizando eficiencia y calidad.
 (b) Presentar para aprobación el plan de reposición de tubería.
-(c) Comercializar y suministrar agua a las motonaves las 24 horas, los 7 días de la semana, en coordinación con las navieras.
+(c) Comercializar y suministrar agua a las motonaves las 24 horas, los 7 días de la semana, siempre que exista disponibilidad del recurso hídrico en el punto de entrega, en coordinación con las navieras.
 (d) Transferir oportunamente a LA SAAAB la participación pactada sobre las ventas brutas.
 (e) Presentar a LA SAAAB, dentro de los primeros cinco (5) días de cada mes, informe de operación, mantenimiento, volúmenes y ventas por terminal, identificando embarcación, fecha, volumen y valor.
 (f) Constituir y mantener vigentes las garantías de la Cláusula Décima Tercera.
@@ -188,32 +190,58 @@ El agua suministrada cumplirá la Resolución 2115 de 2007 en el punto de entreg
 **17.2.** Para la fase de rehabilitación, LA SAAAB podrá contratar interventoría técnica independiente, cuyo costo se asumirá conforme se acuerde entre las partes.
 
 ### CLÁUSULA DÉCIMA OCTAVA. – RÉGIMEN DE SANCIONES Y MULTAS
-**SECCIÓN A – Sanciones a LA SAAAB por indisponibilidad imputable** (excluyendo caso fortuito, fuerza mayor y mantenimientos notificados con 72 horas):
 
-| Duración de la interrupción imputable a LA SAAAB | Sanción (SMMLV) |
+**18.1. Principios.** El régimen de sanciones del presente contrato se fundamenta en los principios de **equilibrio, proporcionalidad y buena fe**. Las partes reconocen expresamente que:
+(i) El sistema de acueducto de Buenaventura no opera con continuidad permanente (24/7), por lo que la **intermitencia estructural** definida en el numeral 8.4 no constituye incumplimiento de ninguna de las partes ni genera sanción.
+(ii) Solo se sancionará la **indisponibilidad imputable**, entendida como aquella interrupción del suministro que no obedezca a intermitencia estructural, caso fortuito, fuerza mayor ni a mantenimientos programados debidamente notificados.
+(iii) Ambas partes están sujetas a un régimen sancionatorio simétrico, con topes anuales iguales y procedimiento de contradicción equivalente.
+
+**18.2. Procedimiento común.** Antes de imponer cualquier sanción, la parte afectada notificará a la otra por escrito, describiendo el incumplimiento, la prueba que lo sustenta y la sanción propuesta. La parte notificada dispondrá de **diez (10) días hábiles** para ejercer su derecho de defensa, presentar descargos y pruebas. Vencido dicho término, la parte afectada resolverá motivadamente dentro de los cinco (5) días hábiles siguientes. Las controversias sobre la procedencia de cualquier sanción se resolverán conforme a la Cláusula Vigésima Quinta.
+
+**SECCIÓN A – Sanciones a LA SAAAB por indisponibilidad imputable**
+(Excluye: intermitencia estructural, caso fortuito, fuerza mayor y mantenimientos programados notificados con al menos 72 horas de antelación.)
+
+| Duración de la interrupción **imputable** a LA SAAAB | Sanción por evento (SMMLV) |
 |---|---|
-| Entre 2 y 6 horas continuas | 2 |
-| Entre 6 y 12 horas continuas | 5 |
-| Entre 12 y 24 horas continuas | 10 |
-| Entre 24 y 48 horas continuas | 20 |
-| Más de 48 horas continuas | 40 + derecho a terminación por EL CONTRATISTA |
+| Entre 6 y 12 horas continuas | 2 |
+| Entre 12 y 24 horas continuas | 5 |
+| Entre 24 y 48 horas continuas | 10 |
+| Entre 48 y 72 horas continuas | 20 |
+| Más de 72 horas continuas | 30 |
 
-Tope anual: ciento veinte (120) SMMLV. Una misma interrupción continua será un solo evento (tramo más alto alcanzado).
+**Otros incumplimientos de LA SAAAB:**
 
-**SECCIÓN B – Sanciones a EL CONTRATISTA** (previa comunicación escrita y cinco (5) días hábiles de defensa):
+| Incumplimiento de LA SAAAB | Sanción (SMMLV) |
+|---|---|
+| Incumplimiento acreditado de los parámetros de calidad del agua (Res. 2115/2007) en el punto de entrega, por causas imputables a LA SAAAB | 5 por evento |
+| Obstrucción o demora injustificada (superior a 30 días) en la aprobación de solicitudes de ampliación de cobertura o nuevos puntos de acceso | 3 por evento |
+| Falta de notificación oportuna de la indisponibilidad (más de 2 horas sin comunicar) | 2 por evento |
+| Violación de la exclusividad pactada en la Cláusula Séptima | 30 por evento + derecho a terminación por EL CONTRATISTA |
+
+**SECCIÓN B – Sanciones a EL CONTRATISTA por incumplimiento**
+(Excluye: interrupciones derivadas de intermitencia estructural del sistema de LA SAAAB o de indisponibilidad no imputable a EL CONTRATISTA.)
 
 | Incumplimiento de EL CONTRATISTA | Sanción (SMMLV) |
 |---|---|
-| Mora en la transferencia entre 16 y 30 días (adicional a intereses) | 1 por mes en mora |
-| Mora en la transferencia superior a 30 días (adicional a intereses) | 3 por mes en mora |
-| Incumplimiento reiterado (3 o más veces/año) del reporte mensual | 2 por reporte omitido |
-| Abastecimiento de terceros sin acreditar indisponibilidad de LA SAAAB | 5 por evento |
-| Subcontratación no notificada conforme a la Cláusula Décima | 3 por subcontrato |
-| Interrupción del servicio a motonaves imputable a EL CONTRATISTA por más de 12 horas | 5 por evento |
-| Prestación con incumplimiento acreditado de calidad del agua | 10 por evento |
-| Incumplimiento del cronograma de rehabilitación aprobado | 5 por cada mes de retraso |
+| Mora en la transferencia de participación entre 16 y 30 días (adicional a intereses de mora) | 2 por mes en mora |
+| Mora en la transferencia de participación superior a 30 días (adicional a intereses de mora) | 5 por mes en mora |
+| Interrupción del servicio a motonaves por más de 12 horas continuas, **por causas imputables exclusivamente a EL CONTRATISTA** (existiendo disponibilidad en el punto de entrega) | 5 por evento |
+| Interrupción del servicio a motonaves por más de 48 horas continuas por causas imputables a EL CONTRATISTA | 10 por evento |
+| Prestación del servicio con incumplimiento acreditado de los parámetros de calidad del agua por causas imputables a EL CONTRATISTA (aguas abajo del punto de entrega) | 5 por evento |
+| Abastecimiento de terceros sin acreditar indisponibilidad o intermitencia estructural de LA SAAAB | 5 por evento |
+| Subcontratación no notificada conforme a la Cláusula Décima | 3 por subcontrato no informado |
+| Incumplimiento reiterado (3 o más veces en un año) del reporte mensual de operación y ventas | 2 por reporte omitido |
+| Incumplimiento del cronograma de rehabilitación aprobado, sin justificación aceptada | 3 por cada mes de retraso |
 
-Tope anual: cien (100) SMMLV. El valor del SMMLV será el vigente a la fecha del evento. Las controversias sobre sanciones podrán llevarse al mecanismo de la Cláusula Vigésima Quinta, sin suspender la exigibilidad de las sanciones no controvertidas.
+**18.3. Tope anual (simétrico).** El monto máximo de sanciones acumulables en un año calendario será de **cien (100) SMMLV para cada parte**. Las sanciones son independientes de la indemnización de perjuicios que proceda cuando los daños superen su valor.
+
+**18.4. Forma de pago de las sanciones.**
+(a) Las sanciones a cargo de LA SAAAB se harán efectivas, a elección de EL CONTRATISTA, mediante descuento de la transferencia de participación del mes siguiente o mediante pago directo dentro de los quince (15) días calendario siguientes a la firmeza de la decisión.
+(b) Las sanciones a cargo de EL CONTRATISTA se harán efectivas mediante adición a la transferencia del mes siguiente o pago directo dentro de los quince (15) días calendario siguientes.
+
+**18.5. Exoneración por intermitencia estructural.** Las interrupciones del servicio a motonaves que sean consecuencia directa y exclusiva de la intermitencia estructural del sistema de acueducto de Buenaventura (numeral 8.4) no generarán sanción para EL CONTRATISTA. Para acreditar la causal de exoneración bastará la comunicación de indisponibilidad emitida por LA SAAAB o, en su defecto, la prueba de ausencia de agua en el macromedidor del punto de entrega durante el período respectivo.
+
+**18.6. Derecho de terminación.** Sin perjuicio de las sanciones, cualquiera de las partes podrá dar por terminado el contrato conforme a la Cláusula Vigésima cuando se configure alguna de las causales graves allí previstas.
 
 ### CLÁUSULA DÉCIMA NOVENA. – EQUILIBRIO ECONÓMICO
 Las partes podrán solicitar la revisión del equilibrio económico ante: (a) cambios normativos o regulatorios generales no previsibles que alteren sustancialmente la ecuación económica; (b) variación extraordinaria de indicadores macroeconómicos que exceda en más del treinta por ciento (30%) las proyecciones del sector durante dos (2) semestres consecutivos; o (c) hechos sobrevinientes imprevisibles no constitutivos de fuerza mayor. La parte afectada notificará con sustento dentro de los treinta (30) días calendario siguientes al conocimiento del hecho; las partes negociarán de buena fe por sesenta (60) días calendario y, de no haber acuerdo, podrán acudir a la Cláusula Vigésima Quinta. La solicitud no suspende las obligaciones. No procede cuando el desequilibrio derive del riesgo normal del negocio o de causa imputable a quien reclama.
@@ -221,8 +249,8 @@ Las partes podrán solicitar la revisión del equilibrio económico ante: (a) ca
 ### CLÁUSULA VIGÉSIMA. – CAUSALES DE TERMINACIÓN
 **20.1. Común acuerdo.** Mediante documento escrito de los representantes legales.
 **20.2. Vencimiento del plazo**, salvo prórroga.
-**20.3. Incumplimiento grave de LA SAAAB:** (i) indisponibilidad superior a 48 horas continuas más de tres (3) veces en un año; (ii) incumplimiento de calidad por más de dos (2) períodos consecutivos sin corrección; (iii) violación de la exclusividad.
-**20.4. Incumplimiento grave de EL CONTRATISTA:** (i) mora en la transferencia/pago superior a noventa (90) días; (ii) pérdida del Registro de Operador Portuario; (iii) cesión no autorizada; (iv) abastecimiento de terceros sin causa justificada en tres o más ocasiones en un año; (v) abandono o incumplimiento sustancial de la rehabilitación.
+**20.3. Incumplimiento grave de LA SAAAB:** (i) indisponibilidad **imputable** (no estructural) superior a 72 horas continuas que ocurra más de tres (3) veces en un año calendario; (ii) incumplimiento de calidad por más de dos (2) períodos consecutivos sin corrección; (iii) violación de la exclusividad.
+**20.4. Incumplimiento grave de EL CONTRATISTA:** (i) mora en la transferencia/pago superior a noventa (90) días; (ii) pérdida del Registro de Operador Portuario; (iii) cesión no autorizada; (iv) abastecimiento de terceros sin causa justificada (ni indisponibilidad ni intermitencia estructural acreditada) en tres o más ocasiones en un año; (v) abandono o incumplimiento sustancial de la rehabilitación.
 **20.5. Insolvencia o liquidación** que impida cumplir.
 **20.6. Fuerza mayor permanente** por más de ciento ochenta (180) días continuos.
 **20.7. Cambio regulatorio** que haga jurídicamente imposible la ejecución, previa declaratoria de autoridad competente.
